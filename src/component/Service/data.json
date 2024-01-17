@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "lanuageName": "HTML",
+    "Rdate": "10-10-2000",
+    "Fname": "Tim Berners-Lee",
+    "about":"HTML is the standard markup language for Web pages.,With HTML you can create your own Website."
+  },
+  {
+    "id": 2,
+    "lanuageName": "CSS",
+    "Rdate": "10-10-2000",
+    "Fname": "Tim Berners-Lee",
+    "about":"CSS is the language we use to style an HTML document.,CSS describes how HTML elements should be displayed."
+  },
+  {
+    "id": 3,
+    "lanuageName": "JavaScript",
+    "Rdate": "11-8-1995",
+    "Fname": "Brendan Eich",
+    "about":"JavaScript is the world's most popular programming language.,JavaScript is the programming language of the Web."
+  },
+  {
+    "id": 4,
+    "lanuageName": "Java",
+    "Rdate": "10-10-2000",
+    "Fname": "Tim Berners-Lee",
+    "about":"Java is a popular programming language.,Java is used to develop mobile apps, web apps, desktop apps, games and much more."
+  }
+]
